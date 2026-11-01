@@ -1,10 +1,10 @@
-# I'm John Winsome Munar
+# Hi, I'm Trozovka (John Winsome Munar)
 
-**Trozovka** is my GitHub handle. I'm a maritime instructor at a maritime training center, and I
+I'm a maritime instructor at a maritime training center, and I
 build practical tools for seafarers and for everyday work: weather on slow ship internet, a
 man-overboard alert, a voyage recorder, phone GPS for OpenCPN, and simple Windows utilities.
 
-My students: if you know me as John Winsome Munar, you're in the right place.
+My students and fellow seafarers: if you know me as **John Winsome Munar**, you're in the right place. Most of my apps carry the Trozovka name.
 
 ## Free apps (download from GitHub)
 
