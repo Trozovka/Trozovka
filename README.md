@@ -1,6 +1,6 @@
 # Hi, I'm Trozovka (John Winsome Munar)
 
-I'm a maritime instructor at a maritime training center, and I
+I'm a **Master Mariner** and an instructor at a maritime training center, and I
 build practical tools for seafarers and for everyday work: weather on slow ship internet, a
 man-overboard alert, a voyage recorder, phone GPS for OpenCPN, and simple Windows utilities.
 
