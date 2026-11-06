@@ -1,10 +1,6 @@
 # Hi, I'm Trozovka (John Winsome Munar)
 
-I'm a **Master Mariner** and an instructor at a maritime training center, and I
-build practical tools for seafarers and for everyday work: weather on slow ship internet, a
-man-overboard alert, a voyage recorder, phone GPS for OpenCPN, and simple Windows utilities.
-
-My students and fellow seafarers: if you know me as **John Winsome Munar**, you're in the right place. Most of my apps carry the Trozovka name.
+I'm a **Master Mariner** and I build practical tools for seafarers and for everyday work: weather on slow ship internet, a man-overboard alert, a voyage recorder, phone GPS for OpenCPN, and simple Windows utilities.
 
 ## Free apps (download from GitHub)
 
