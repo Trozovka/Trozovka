@@ -30,6 +30,10 @@ simple sticky notes that stay on top of your screen.
 
 All apps: [trozovka.gumroad.com](https://trozovka.gumroad.com)
 
+## Writing
+
+- **[Weather by Email at Sea](https://trozovka.github.io/weather-by-email-at-sea.html)**: how I get a 10-day forecast (GRIB files and weather fax style charts, GFS and ECMWF) on a tramp ship that only has company email. Principles and design. ([GitHub](https://github.com/Trozovka/weather-by-email-at-sea))
+
 ## Tools I use
 
 Kotlin / Android · Python (PySide6, pywebview) · PowerShell · Git & GitHub Actions · OpenCPN / NMEA 0183 · Gumroad
