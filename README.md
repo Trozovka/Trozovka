@@ -33,6 +33,7 @@ All apps: [trozovka.gumroad.com](https://trozovka.gumroad.com)
 ## Writing
 
 - **[Weather by Email at Sea](https://trozovka.github.io/weather-by-email-at-sea.html)**: how I get a 10-day forecast (GRIB files and weather fax style charts, GFS and ECMWF) on a tramp ship that only has company email. Principles and design. ([GitHub](https://github.com/Trozovka/weather-by-email-at-sea))
+- **[Android from WSL2](https://trozovka.github.io/android-from-wsl2.html)**: controlling an Android phone from Ubuntu on Windows: USB passthrough, wireless debugging behind a VPN firewall, and an adb freeze. ([GitHub](https://github.com/Trozovka/android-from-wsl2))
 
 ## Tools I use
 
