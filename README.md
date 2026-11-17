@@ -1,44 +1,35 @@
 # Hi, I'm Trozovka (John Winsome Munar)
 
-I'm a **Master Mariner** and I build practical tools for seafarers and for everyday work: weather on slow ship internet, a man-overboard alert, a voyage recorder, phone GPS for OpenCPN, and simple Windows utilities.
+I'm a Master Mariner and I build practical tools for seafarers and for everyday work.
 
-## Free apps (download from GitHub)
+## Free apps (GitHub)
 
-**[WX Lite for Seafarers](https://github.com/Trozovka/wx-lite-for-cfarers/releases/latest)** (Android):
-marine weather (wind, pressure, tropical cyclones) built for slow satellite internet. 1-day forecast.
-
-**[PocketMOB Alert Lite](https://github.com/Trozovka/pocketmobalert-lite/releases/latest)** (Android):
-phone-to-phone man-overboard alert for your crew, over Bluetooth.
-
-**[PocketVDR Lite](https://github.com/Trozovka/pocketvdr-lite/releases/latest)** (Android):
-a personal voyage data recorder that works offline.
-
-**[OpenCPN GPS Server Free](https://github.com/Trozovka/opencpn-gps-server-free/releases/latest)** (Android):
-turns your phone into a Wi-Fi GPS source for OpenCPN (1-minute sessions).
-
-**[Trozovka Notes](https://github.com/Trozovka/Trozovka-Notes/releases/latest)** (Windows):
-simple sticky notes that stay on top of your screen.
+- **[WX Lite for Seafarers](https://github.com/Trozovka/wx-lite-for-cfarers/releases/latest)**: Android marine weather app for slow ship satellite internet. Wind, pressure, tropical cyclones.
+- **[PocketMOB Alert Lite](https://github.com/Trozovka/pocketmobalert-lite/releases/latest)**: Android man-overboard (MOB) alarm, phone to phone over Bluetooth.
+- **[PocketVDR Lite](https://github.com/Trozovka/pocketvdr-lite/releases/latest)**: Android voyage data recorder (VDR), works offline.
+- **[OpenCPN GPS Server Free](https://github.com/Trozovka/opencpn-gps-server-free/releases/latest)**: Android phone as a Wi-Fi NMEA 0183 GPS for OpenCPN.
+- **[Trozovka Notes](https://github.com/Trozovka/Trozovka-Notes/releases/latest)**: Windows sticky notes, always on top.
 
 ## Pro versions and Windows tools (Gumroad)
 
-- [WX Pro for Seafarers](https://trozovka.gumroad.com/l/wx-pro-for-seafarers): full 10-day forecast
-- [PocketMOB Alert Pro](https://trozovka.gumroad.com/l/pocket-mob-alert-pro): unlimited crew, full alert history, OpenCPN waypoints
-- [PocketVDR Pro](https://trozovka.gumroad.com/l/pocket-vdr-pro): review and export every voyage
-- [OpenCPN GPS Server Pro](https://trozovka.gumroad.com/l/OpenCPNGPSServerPro): no time limit
-- [Simple PDF Editor](https://trozovka.gumroad.com/l/simplepdfeditor) (Windows): merge, split, compress and edit PDFs
-- [Simple Photo & Video Resizer](https://trozovka.gumroad.com/l/SimplePhotoVideoResizer) (Windows): shrink photos and videos to a target size
+- [WX Pro for Seafarers](https://trozovka.gumroad.com/l/wx-pro-for-seafarers): 10-day marine weather forecast
+- [PocketMOB Alert Pro](https://trozovka.gumroad.com/l/pocket-mob-alert-pro): man-overboard alarm, unlimited crew, OpenCPN waypoints
+- [PocketVDR Pro](https://trozovka.gumroad.com/l/pocket-vdr-pro): voyage recorder with review and export
+- [OpenCPN GPS Server Pro](https://trozovka.gumroad.com/l/OpenCPNGPSServerPro): phone GPS for OpenCPN, no time limit
+- [Simple PDF Editor](https://trozovka.gumroad.com/l/simplepdfeditor): Windows PDF merge, split, compress, edit
+- [Simple Photo & Video Resizer](https://trozovka.gumroad.com/l/SimplePhotoVideoResizer): Windows photo and video size reducer
 
 All apps: [trozovka.gumroad.com](https://trozovka.gumroad.com)
 
 ## Writing
 
-- **[Weather by Email at Sea](https://trozovka.github.io/weather-by-email-at-sea.html)**: how I get a 10-day forecast (GRIB files and weather fax style charts, GFS and ECMWF) on a tramp ship that only has company email. Principles and design. ([GitHub](https://github.com/Trozovka/weather-by-email-at-sea))
-- **[Android from WSL2](https://trozovka.github.io/android-from-wsl2.html)**: controlling an Android phone from Ubuntu on Windows: USB passthrough, wireless debugging behind a VPN firewall, and an adb freeze. ([GitHub](https://github.com/Trozovka/android-from-wsl2))
+- [Weather by Email at Sea](https://trozovka.github.io/weather-by-email-at-sea.html): GRIB and weather fax charts (GFS, ECMWF) by email on a ship with no internet
+- [Android from WSL2](https://trozovka.github.io/android-from-wsl2.html): adb, USB passthrough and wireless debugging from Ubuntu on Windows
 
-## Tools I use
+## Tools
 
-Kotlin / Android · Python (PySide6, pywebview) · PowerShell · Git & GitHub Actions · OpenCPN / NMEA 0183 · Gumroad
+Kotlin / Android · Python · PowerShell · Git & GitHub Actions · OpenCPN / NMEA 0183
 
 ## Contact
 
-Open an issue on any of my repos, or email trozovka@gmail.com.
+Open an issue on any repo, or email trozovka@gmail.com.
