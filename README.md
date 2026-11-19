@@ -21,6 +21,10 @@ I'm a Master Mariner and I build practical tools for seafarers and for everyday 
 
 All apps: [trozovka.gumroad.com](https://trozovka.gumroad.com)
 
+## Books
+
+- **[Command in Narrow Waters](https://trozovka.github.io/command-in-narrow-waters.html)** by Capt. John Winsome Munar: pilotage, self-pilotage, rivers and anchorages for ship Masters. Paperback ISBN 9798142539861 and Kindle on Amazon.
+
 ## Writing
 
 - [Weather by Email at Sea](https://trozovka.github.io/weather-by-email-at-sea.html): GRIB and weather fax charts (GFS, ECMWF) by email on a ship with no internet
