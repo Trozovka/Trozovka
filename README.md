@@ -27,6 +27,7 @@ All apps: [trozovka.gumroad.com](https://trozovka.gumroad.com)
 
 ## Writing
 
+- [Squat and Under-Keel Clearance: the Master's Quick Checks](https://trozovka.github.io/squat-and-ukc.html): UKC budget, Barrass formulas and a worked bar crossing, from Command in Narrow Waters
 - [Weather by Email at Sea](https://trozovka.github.io/weather-by-email-at-sea.html): GRIB and weather fax charts (GFS, ECMWF) by email on a ship with no internet
 - [The Master's General Account in One Workbook](https://trozovka.github.io/masters-general-account.html): crew wages, allotments, cash advances and bonded store in one checked Excel file
 - [Android from WSL2](https://trozovka.github.io/android-from-wsl2.html): adb, USB passthrough and wireless debugging from Ubuntu on Windows
