@@ -4,20 +4,22 @@ I'm a Master Mariner and I build practical tools for seafarers and for everyday 
 
 ## Free apps (GitHub)
 
-- **[WX Lite for Seafarers](https://github.com/Trozovka/wx-lite-for-cfarers/releases/latest)**: Android marine weather app for slow ship satellite internet. Wind, pressure, tropical cyclones.
-- **[PocketMOB Alert Lite](https://github.com/Trozovka/pocketmobalert-lite/releases/latest)**: Android man-overboard (MOB) alarm, phone to phone over Bluetooth.
-- **[PocketVDR Lite](https://github.com/Trozovka/pocketvdr-lite/releases/latest)**: Android voyage data recorder (VDR), works offline.
+Android apps: coming soon to Google Play. Until then, download the APK from the links below.
+
+- **[WX Free for Seafarers](https://github.com/Trozovka/wx-lite-for-cfarers/releases/latest)**: Android marine weather app for slow ship satellite internet. Wind, pressure, tropical cyclones.
+- **[PocketMOBAlert Free](https://github.com/Trozovka/pocketmobalert-free/releases/latest)**: Android man-overboard (MOB) alarm, phone to phone over Bluetooth.
+- **[PocketVDR Free](https://github.com/Trozovka/pocketvdr-free/releases/latest)**: Android voyage data recorder (VDR), works offline.
 - **[OpenCPN GPS Server Free](https://github.com/Trozovka/opencpn-gps-server-free/releases/latest)**: Android phone as a Wi-Fi NMEA 0183 GPS for OpenCPN.
 - **[Trozovka Notes](https://github.com/Trozovka/Trozovka-Notes/releases/latest)**: Windows sticky notes, always on top.
 
 ## Pro versions and Windows tools (Gumroad)
 
 - [WX Pro for Seafarers](https://trozovka.gumroad.com/l/wx-pro-for-seafarers): 10-day marine weather forecast
-- [PocketMOB Alert Pro](https://trozovka.gumroad.com/l/pocket-mob-alert-pro): man-overboard alarm, unlimited crew, OpenCPN waypoints
-- [PocketVDR Pro](https://trozovka.gumroad.com/l/pocket-vdr-pro): voyage recorder with review and export
-- [OpenCPN GPS Server Pro](https://trozovka.gumroad.com/l/OpenCPNGPSServerPro): phone GPS for OpenCPN, no time limit
-- [Simple PDF Editor](https://trozovka.gumroad.com/l/simplepdfeditor): Windows PDF merge, split, compress, edit
-- [Simple Photo & Video Resizer](https://trozovka.gumroad.com/l/SimplePhotoVideoResizer): Windows photo and video size reducer
+- [PocketMOBAlert Pro](https://trozovka.gumroad.com/l/pocketmobalert-pro): man-overboard alarm, unlimited crew, OpenCPN waypoints
+- [PocketVDR Pro](https://trozovka.gumroad.com/l/pocketvdr-pro): voyage recorder with review and export
+- [OpenCPN GPS Server Pro](https://trozovka.gumroad.com/l/opencpn-gps-server-pro): phone GPS for OpenCPN, no time limit
+- [Simple PDF Editor](https://trozovka.gumroad.com/l/simple-pdf-editor): Windows PDF merge, split, compress, edit
+- [Simple Photo & Video Resizer](https://trozovka.gumroad.com/l/simple-photo-video-resizer): Windows photo and video size reducer
 
 All apps: [trozovka.gumroad.com](https://trozovka.gumroad.com)
 
